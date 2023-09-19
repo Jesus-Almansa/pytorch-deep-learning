@@ -168,8 +168,10 @@ demos/foodvision_big/
 demos/foodvision_mini/
 flagged/
 PRACTICA.ipynb
-Pruebas.py
-OOP.ipynb
+
+# Programacion Orientada a Objetos
+./ProgramacionroentadaObjetos/Pruebas.py
+./ProgramacionroentadaObjetos/OOP.ipynb
 
 
 # Docs
