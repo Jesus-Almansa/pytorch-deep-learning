@@ -80,3 +80,4 @@ phone1 = Phone("Xperia1", 500, 4, 1)
 print(phone1.calculate_total_price())
 phone2 = Phone("Xperia2", 600, 4, 1)
 # phone2.broken_phones = 2
+
